@@ -87,9 +87,11 @@ SIEM
 
 ## Certifications
 <div>
+<img src="https://img.shields.io/badge/Google%20Cybersecurity-4285F4?style=for-the-badge&logo=google&logoColor=white" />
 <img src="https://img.shields.io/badge/-TryHackMe-0078d7?&style=for-the-badge&logo=TryHackMe&logoColor=white)" />
 </div>
 
 ## Projects
 - Detection Lab
 - SOC Automation Project
+- Capture The Flags using Mr.Robot 1 Machine
